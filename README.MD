@@ -10,24 +10,24 @@ _{This is a website that gives a brief insight into the life of Brett Cordell. P
 
 ## Setup/Installation Requirements
 
-* _Clone HTML file off Git.
+* _Clone HTML file off Git_
 * _Open HTML file with preferred Text editor._
 * _Add comments as needed regarding changes made._
 
 ## Known Bugs
 
-_{At this time there are no known bugs. Please submit bug reports as needed.}_
+_At this time there are no known bugs. Please submit bug reports as needed._
 
 ## Support and contact details
 
-_{If there are any questions, or concerns please e-mail Cordell.desu@gmail.com}_
+_If there are any questions, or concerns please e-mail Cordell.desu@gmail.com_
 
 ## Technologies Used
 
-*_{HTML}_
+* _HTML_
 
 ### License
 
-*{This software is utilizing an MIT license at this time. }*
+* This software is utilizing an MIT license at this time. *
 
-Copyright (c) 2019 **_{Brett Cordell}_**
+Copyright (c) 2019 **_Brett Cordell_**
