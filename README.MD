@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a website that gives a brief insight into the life of Brett Cordell. Pretty basic stuff here. }_
+_This is a website that gives a brief insight into the life of Brett Cordell. Pretty basic stuff here._
 
 ## Setup/Installation Requirements
 
